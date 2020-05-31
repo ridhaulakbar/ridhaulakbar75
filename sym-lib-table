@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name keebio)(type Legacy)(uri "${KIPRJMOD}/Library & Pretty/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri "${KIPRJMOD}/Library & Pretty/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name ws2812b)(type Legacy)(uri "${KIPRJMOD}/Library & Pretty/WS2812B.pretty/Schematic-Symbol/ws2812b.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/Library & Pretty/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/Library & Pretty/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name ridhaulakbar75-rescue)(type Legacy)(uri ${KIPRJMOD}/ridhaulakbar75-rescue.lib)(options "")(descr ""))
+)

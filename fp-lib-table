@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name MX_Only)(type KiCad)(uri "${KIPRJMOD}/Library & Pretty/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri "${KIPRJMOD}/Library & Pretty/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri "${KIPRJMOD}/Library & Pretty/Type-C.pretty")(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri "${KIPRJMOD}/Library & Pretty/WS2812B.pretty")(options "")(descr ""))
+  (lib (name locallib)(type KiCad)(uri ${KIPRJMOD}/locallib)(options "")(descr ""))
+  (lib (name master-Keebio-Parts)(type KiCad)(uri "C:/Users/feizh/Documents/KiCAD-Project/Library & Pretty/master-Keebio-Parts.pretty")(options "")(descr ""))
+)
