@@ -5,4 +5,6 @@
   (lib (name WS2812B)(type KiCad)(uri "${KIPRJMOD}/Library & Pretty/WS2812B.pretty")(options "")(descr ""))
   (lib (name locallib)(type KiCad)(uri ${KIPRJMOD}/locallib)(options "")(descr ""))
   (lib (name master-Keebio-Parts)(type KiCad)(uri "C:/Users/feizh/Documents/KiCAD-Project/Library & Pretty/master-Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "ebastler kicad-keyboard-parts")(type KiCad)(uri "C:/Users/feizh/Documents/KiCAD-Project/Library & Pretty/ebastler kicad-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name nrfmicro)(type KiCad)(uri E:/Downloads/Compressed/nrfmicro-1.4/hardware/nrfmicro.pretty)(options "")(descr ""))
 )
