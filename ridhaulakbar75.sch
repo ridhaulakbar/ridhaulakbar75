@@ -3164,7 +3164,7 @@ U 1 1 60F46879
 P 11450 5450
 F 0 "J5" H 11600 5400 50  0000 C CNN
 F 1 "Underglow" H 11750 5500 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 11450 5450 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Vertical" H 11450 5450 50  0001 C CNN
 F 3 "~" H 11450 5450 50  0001 C CNN
 	1    11450 5450
 	1    0    0    1   
@@ -3180,10 +3180,10 @@ F 3 "" H 11250 5550 50  0001 C CNN
 	1    11250 5550
 	1    0    0    -1  
 $EndComp
-Text GLabel 11250 5350 0    39   Input ~ 0
-VBUS
 Text GLabel 11250 5450 0    50   Input ~ 0
 RGB
 Text GLabel 1650 9750 0    50   Input ~ 0
 RGB
+Text GLabel 11250 5350 0    50   Input ~ 0
+EXT_VCC
 $EndSCHEMATC

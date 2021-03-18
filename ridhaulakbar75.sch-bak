@@ -3154,9 +3154,9 @@ Text GLabel 1650 8950 0    50   Input ~ 0
 COL14
 Text GLabel 1650 8750 0    50   Input ~ 0
 COL15
-Text GLabel 1650 9150 0    50   Input ~ 0
-Rotary-A
 Text GLabel 1650 9550 0    50   Input ~ 0
+Rotary-A
+Text GLabel 1650 9150 0    50   Input ~ 0
 Rotary-B
 $Comp
 L Connector_Generic:Conn_01x03 J5
@@ -3183,5 +3183,7 @@ $EndComp
 Text GLabel 11250 5350 0    39   Input ~ 0
 VBUS
 Text GLabel 11250 5450 0    50   Input ~ 0
+RGB
+Text GLabel 1650 9750 0    50   Input ~ 0
 RGB
 $EndSCHEMATC
